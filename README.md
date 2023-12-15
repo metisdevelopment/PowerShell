@@ -13,6 +13,6 @@ Tutorial Below
 
 ## Tutorial Links
 
-[Align Taskbar to the left with Intune](https://linktodocumentation)
+[Align Taskbar to the left with Intune](https://metissolutions.co.uk/?p=3446)
 [DeBloat Script](https://linktodocumentation)
 
