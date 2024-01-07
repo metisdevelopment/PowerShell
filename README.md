@@ -1,3 +1,5 @@
+![Logo](https://metissolutions.co.uk/wp-content/uploads/2023/11/Metis-Logo-600-No-background-6x2-1.png)
+
 # PowerShell Scripts and Tutorials
 A collection of PowerShell scripts and their associated tutorials. Covering everything from Intune, AAD and more.
 
@@ -13,6 +15,6 @@ Tutorial Below
 
 ## Tutorial Links
 
-[Align Taskbar to the left with Intune](https://metissolutions.co.uk/?p=3446)
-[DeBloat Script](https://linktodocumentation)
+[Align Taskbar to the left with Intune](https://metissolutions.co.uk/knowledgebase/intune/how-to-align-the-taskbar-to-the-left-with-intune)
+[DeBloat Script](https://metissolutions.co.uk/?post_type=knowledgebase&p=3517)
 
