@@ -45,3 +45,4 @@ Here is the link to tutorial on my Knowledgebase. If you have any recomendations
 |Xbox Gaming Overlay|Microsoft.XboxGameOverlay|
 |Xbox Identity Provider|Microsoft.XboxIdentityProvider|
 |Xbox Speech to Text Overlay|Microsoft.XboxGamingOverlay|
+|Microsoft Teams Classic|Microsoft.Teams.Classic|
